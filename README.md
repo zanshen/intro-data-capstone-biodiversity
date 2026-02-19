@@ -1,7 +1,5 @@
-# intro-data-capstone-biodiversity
-
 import streamlit as st
-from pypdf2 import PdfReader
+from PyPDF2 import PdfReader
 from io import BytesIO
 
 st.set_page_config(page_title="Hyle AI", layout="wide")
